@@ -1,0 +1,19 @@
+{
+  "name": "adamplouff",
+  "version": "0.0.1",
+  "description": "Portfolio site",
+  "main": "index.js",
+  "authors": {
+    "name": "Adam Plouff",
+    "email": "adamplouff@gmail.com"
+  },
+  "repository": "https://github.com/adamplouff/adamplouff-vuepress.git/adamplouff",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
